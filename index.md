@@ -1,4 +1,4 @@
-# Academic Panic
+<!-- # Academic Panic -->
 
 ## Table of contents
 
@@ -27,26 +27,26 @@ information,
 The goals of the project are as follows:
 - provide UH Manoa students with a collaborative study/tutoring resource,
 - encourage networking and community amongst UH Manoa students, and
-- provide a platform for students to share honest [respectful] opinions about
-courses that will be visible by all users.
+- provide a platform for students to share honest (yet respectful) opinions
+about courses that will be visible by all users.
 
 ## User Flow
 
- - User visits webpage inspired by GitHub's design, sees landing page displaying
- planned sessions and participants count.
-- User creates account with email/username, password, optional headshot, and
+- User visits webpage inspired by GitHub's design and sees landing page
+displaying planned sessions and participants count.
+- User creates account with email/username, password, potential headshot, and
 course table (course name, year, semester, instructor, TA/grader checkboxes,
 passion checkbox).
-- Account creation generates unique ID number.
+<!-- - Account creation may generate a unique ID number. -->
 - Landing page updates to display planned sessions for friends and public.
 - User can create a study session by filling out details like course, location,
 date & time, purpose, and privacy (public or friends-only).
-- Friends-only broadcasts share all information with applicable users, while
-public broadcasts hide details until the user commits to attending.
+<!-- - Friends-only broadcasts share all information with applicable users, while -->
+<!-- public broadcasts hide details until the user commits to attending. -->
 - "My Profile" page allows user to view/edit current courses, see friends, and
 add them via email/ID number (friendships formed through mutual requests, no
 confirmation system).
-- User can rescind friend request or terminate friendship on friends' list.
+<!-- - User can rescind friend request or terminate friendship on friends' list. -->
 
 ## Technologies Used
 
@@ -69,4 +69,5 @@ updates, and
 Rules](https://nextjs.org/docs/app/building-your-application/configuring/eslint)
 and the [AirBnB Javascript Style Guide](https://github.com/airbnb/javascript).
 
-<!-- TODO: ADD DEPLOYMENT MECHANISM -->
+Additionally, we will use [Vercel](https://vercel.com/) as our deployment
+platform.
