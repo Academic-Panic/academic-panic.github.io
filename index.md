@@ -100,7 +100,9 @@ platform.
 
 ## Milestones
 [M1 Project Page](https://github.com/orgs/Academic-Panic/projects/1/views/1) - Milestone 1 Issues
+
 [M2 Project Page](https://github.com/orgs/Academic-Panic/projects/3) - Milestone 2 Issues
+
 M3 Project Page - Milestone 3 Issues
 
 ## Deployment
