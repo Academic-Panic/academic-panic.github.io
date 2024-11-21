@@ -3,11 +3,16 @@
 ## Table of contents
 
 - [Overview](#overview)
-<!-- - [Mockups](#mockups) -->
+- [Mockups](#mockups)
 - [Goals](#goals)
 - [User Flow](#user-flow)
+- [Application Screenshots](#application-screenshots)
 - [Technologies Used](#technologies-used)
 <!-- - [Team](#team) -->
+- [Team Contract](#team-contract)
+- [Team Organization](#team-organization)
+- [Milestones](#milestones)
+- [Deployment](#deployment)
 
 ## Overview
 
@@ -18,9 +23,16 @@ peers to engage in more effective and collaborative learning with
 - a "friends" system to connect students without disclosing sensitive
 information,
 
-<!-- ## Mockups -->
-<!---->
-<!-- TODO: INSERT MOCKUPS -->
+## Mockups
+### Landing Page Mockup
+
+### Application(Sign Up) Page Mockup
+
+### Sessions Page Mockup
+
+### Add Session Page Mockup
+
+### Agreement/Rules Page Mockup
 
 ## Goals
 
@@ -48,6 +60,9 @@ add them via email/ID number (friendships formed through mutual requests, no
 confirmation system).
 <!-- - User can rescind friend request or terminate friendship on friends' list. -->
 
+## Application Screenshots
+### Milestone 1 Screenshots
+
 ## Technologies Used
 
 Academic Panic is built upon the
@@ -71,3 +86,17 @@ and the [AirBnB Javascript Style Guide](https://github.com/airbnb/javascript).
 
 Additionally, we will use [Vercel](https://vercel.com/) as our deployment
 platform.
+
+## Team Contract
+[Academic Panic Contract](https://docs.google.com/document/d/1SDhOiA1jgnLjI-4QiKNu1jvCmhLfNizg4RMw-Yr36SQ/edit?usp=sharing)
+
+## Team Organization
+[Academic Panic Organization page](https://github.com/Academic-Panic)
+
+## Milestones
+[M1 Project Page](https://github.com/orgs/Academic-Panic/projects/1/views/1) - Milestone 1 Issues
+[M2 Project Page](https://github.com/orgs/Academic-Panic/projects/3) - Milestone 2 Issues
+M3 Project Page - Milestone 3 Issues
+
+## Deployment
+Our application is deployed on vercel in the following link, [Academic Panic](https://academic-panic-application.vercel.app/)
