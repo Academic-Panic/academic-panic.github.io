@@ -25,14 +25,19 @@ information,
 
 ## Mockups
 ### Landing Page Mockup
+![LP Mockup](AP_LandingM.png)
 
 ### Application(Sign Up) Page Mockup
+![LP Application](AP_ApplicationM.png)
 
 ### Sessions Page Mockup
+![LP Sessions](AP_SessionsM.png)
 
 ### Add Session Page Mockup
+![LP AddSessions](AP_AddSessionM.png)
 
 ### Agreement/Rules Page Mockup
+![LP Agreement](AP_AgreementM.png)
 
 ## Goals
 
