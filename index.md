@@ -4,9 +4,9 @@
 
 - [Overview](#overview)
 - [Mockups](#mockups)
+- [Application Screenshots](#application-screenshots)
 - [Goals](#goals)
 - [User Flow](#user-flow)
-- [Application Screenshots](#application-screenshots)
 - [Technologies Used](#technologies-used)
 <!-- - [Team](#team) -->
 - [Team Contract](#team-contract)
@@ -39,6 +39,18 @@ information,
 ### Agreement/Rules Page Mockup
 ![LP Agreement](AP_AgreementM.png)
 
+## Application Screenshots
+### Milestone 1 Screenshots
+#### Landing Page
+![LP Landing Page](AP_Landing.png)
+
+#### Sign Up Page
+![LP SignUp Page](AP_SignUp.png)
+
+#### Log In Page
+![LP LogIn Page](AP_LogIn.png)
+
+
 ## Goals
 
 The goals of the project are as follows:
@@ -64,17 +76,6 @@ date & time, purpose, and privacy (public or friends-only).
 add them via email/ID number (friendships formed through mutual requests, no
 confirmation system).
 <!-- - User can rescind friend request or terminate friendship on friends' list. -->
-
-## Application Screenshots
-### Milestone 1 Screenshots
-#### Landing Page
-![LP Landing Page](AP_Landing.png)
-
-#### Sign Up Page
-![LP SignUp Page](AP_SignUp.png)
-
-#### Log In Page
-![LP LogIn Page](AP_LogIn.png)
 
 ## Technologies Used
 
