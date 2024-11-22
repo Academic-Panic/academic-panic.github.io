@@ -67,6 +67,14 @@ confirmation system).
 
 ## Application Screenshots
 ### Milestone 1 Screenshots
+#### Landing Page
+![LP Landing Page](AP_Landing.png)
+
+#### Sign Up Page
+![LP SignUp Page](AP_SignUp.png)
+
+#### Log In Page
+![LP LogIn Page](AP_LogIn.png)
 
 ## Technologies Used
 
