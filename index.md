@@ -113,7 +113,7 @@ Additionally, we will use [Vercel](https://vercel.com/) as our deployment
 platform.
 
 ## Team Contract
-[Academic Panic Contract](https://docs.google.com/document/d/1SDhOiA1jgnLjI-4QiKNu1jvCmhLfNizg4RMw-Yr36SQ/edit?usp=sharing)
+[Academic Panic Contract](https://docs.google.com/document/d/1t8T_RfazQbLVfYcnKgaXLSmiIFlE0KpDmrwTd28IiKA/edit?tab=t.0#heading=h.cwlg4wpeg4ei)
 
 ## Team Organization
 [Academic Panic Organization page](https://github.com/Academic-Panic)
