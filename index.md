@@ -3,16 +3,17 @@
 ## Table of contents
 
 - [Overview](#overview)
-- [Mockups](#mockups)
-- [Application Screenshots](#application-screenshots)
 - [Goals](#goals)
 - [User Flow](#user-flow)
+- [Mockups](#mockups)
+- [Application Screenshots](#application-screenshots)
+- [Milestones](#milestones)
+- [Deployment](#deployment)
 - [Technologies Used](#technologies-used)
 <!-- - [Team](#team) -->
 - [Team Contract](#team-contract)
 - [Team Organization](#team-organization)
-- [Milestones](#milestones)
-- [Deployment](#deployment)
+
 
 ## Overview
 
@@ -22,6 +23,33 @@ peers to engage in more effective and collaborative learning with
 - a course review and rating system, and
 - a "friends" system to connect students without disclosing sensitive
 information,
+
+## Goals
+
+The goals of the project are as follows:
+- provide UH Manoa students with a collaborative study/tutoring resource,
+- encourage networking and community amongst UH Manoa students, and
+- provide a platform for students to share honest (yet respectful) opinions
+about courses that will be visible by all users.
+
+## User Flow
+
+- User visits webpage inspired by GitHub's design and sees landing page
+displaying planned sessions and participants count.
+- User creates account with email/username, password, potential headshot, and
+course table (course name, year, semester, instructor, TA/grader checkboxes,
+passion checkbox).
+<!-- - Account creation may generate a unique ID number. -->
+- Landing page updates to display planned sessions for friends and public.
+- User can create a study session by filling out details like course, location,
+date & time, purpose, and privacy (public or friends-only).
+<!-- - Friends-only broadcasts share all information with applicable users, while -->
+<!-- public broadcasts hide details until the user commits to attending. -->
+- "My Profile" page allows user to view/edit current courses, see friends, and
+add them via email/ID number (friendships formed through mutual requests, no
+confirmation system).
+<!-- - User can rescind friend request or terminate friendship on friends' list. -->
+
 
 ## Mockups
 ### Landing Page Mockup
@@ -50,32 +78,15 @@ information,
 #### Log In Page
 ![LP LogIn Page](AP_LogIn.png)
 
+## Milestones
+[M1 Project Page](https://github.com/orgs/Academic-Panic/projects/1/views/1) - Milestone 1 Issues
 
-## Goals
+[M2 Project Page](https://github.com/orgs/Academic-Panic/projects/3) - Milestone 2 Issues
 
-The goals of the project are as follows:
-- provide UH Manoa students with a collaborative study/tutoring resource,
-- encourage networking and community amongst UH Manoa students, and
-- provide a platform for students to share honest (yet respectful) opinions
-about courses that will be visible by all users.
+M3 Project Page - Milestone 3 Issues
 
-## User Flow
-
-- User visits webpage inspired by GitHub's design and sees landing page
-displaying planned sessions and participants count.
-- User creates account with email/username, password, potential headshot, and
-course table (course name, year, semester, instructor, TA/grader checkboxes,
-passion checkbox).
-<!-- - Account creation may generate a unique ID number. -->
-- Landing page updates to display planned sessions for friends and public.
-- User can create a study session by filling out details like course, location,
-date & time, purpose, and privacy (public or friends-only).
-<!-- - Friends-only broadcasts share all information with applicable users, while -->
-<!-- public broadcasts hide details until the user commits to attending. -->
-- "My Profile" page allows user to view/edit current courses, see friends, and
-add them via email/ID number (friendships formed through mutual requests, no
-confirmation system).
-<!-- - User can rescind friend request or terminate friendship on friends' list. -->
+## Deployment
+Our application is deployed on vercel in the following link, [Academic Panic](https://academic-panic-application.vercel.app/)
 
 ## Technologies Used
 
@@ -106,13 +117,3 @@ platform.
 
 ## Team Organization
 [Academic Panic Organization page](https://github.com/Academic-Panic)
-
-## Milestones
-[M1 Project Page](https://github.com/orgs/Academic-Panic/projects/1/views/1) - Milestone 1 Issues
-
-[M2 Project Page](https://github.com/orgs/Academic-Panic/projects/3) - Milestone 2 Issues
-
-M3 Project Page - Milestone 3 Issues
-
-## Deployment
-Our application is deployed on vercel in the following link, [Academic Panic](https://academic-panic-application.vercel.app/)
