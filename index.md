@@ -83,7 +83,7 @@ confirmation system).
 
 [M2 Project Page](https://github.com/orgs/Academic-Panic/projects/3) - Milestone 2 Issues
 
-M3 Project Page - Milestone 3 Issues
+[M3 Project Page](https://github.com/orgs/Academic-Panic/projects/4) - Milestone 3 Issues
 
 ## Deployment
 Our application is deployed on vercel in the following link, [Academic Panic](https://academic-panic-application.vercel.app/)
