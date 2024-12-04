@@ -1,5 +1,5 @@
 <!-- # Academic Panic -->
-[![pages-build-deployment](https://github.com/Academic-Panic/academic-panic.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Academic-Panic/academic-panic.github.io/actions/workflows/pages/pages-build-deployment)
+[![ci-academic-panic-application](https://github.com/Academic-Panic/academic-panic-application/actions/workflows/ci.yml/badge.svg)](https://github.com/Academic-Panic/academic-panic-application/actions/workflows/ci.yml)
 ## Table of contents
 
 - [Overview](#overview)
