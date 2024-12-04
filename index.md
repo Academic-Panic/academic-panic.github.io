@@ -1,5 +1,5 @@
 <!-- # Academic Panic -->
-
+[![pages-build-deployment](https://github.com/Academic-Panic/academic-panic.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Academic-Panic/academic-panic.github.io/actions/workflows/pages/pages-build-deployment)
 ## Table of contents
 
 - [Overview](#overview)
