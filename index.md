@@ -78,6 +78,12 @@ confirmation system).
 #### Log In Page
 ![LP LogIn Page](AP_LogIn.png)
 
+#### Add Course Page
+![LP AddCourse Page](AP_AddCourse.png)
+
+#### Agreement Page
+![LP Agreement Page](AP_Agreement.png)
+
 ## Milestones
 [M1 Project Page](https://github.com/orgs/Academic-Panic/projects/1/views/1) - Milestone 1 Issues
 
