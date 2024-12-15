@@ -10,7 +10,7 @@
 - [Milestones](#milestones)
 - [Deployment](#deployment)
 - [Technologies Used](#technologies-used)
-- [Developers Guide](#Developers-Guide)
+- [Developers Guide](#developers-guide)
 <!-- - [Team](#team) -->
 - [Team Contract](#team-contract)
 - [Team Organization](#team-organization)
@@ -122,6 +122,7 @@ platform.
 [![ci-academic-panic-application](https://github.com/Academic-Panic/academic-panic-application/actions/workflows/ci.yml/badge.svg)](https://github.com/Academic-Panic/academic-panic-application/actions/workflows/ci.yml)
 
 
+## Developers Guide
 
 ## 1. Project Overview
 
