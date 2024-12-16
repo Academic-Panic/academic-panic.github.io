@@ -53,7 +53,46 @@ Once logged in, the home page or panic board, has "Traum in Progress" that will 
 ![PanicBoard](AP_PanicBoard.png)
 
 ### NavBar - Courses
-Clicking the courses dropdown you 
+Clicking the courses dropdown the user has the option to either create a coures or list courses that they have.
+
+![NavBar_Courses](AP_CoursesButton)
+
+#### Courses - Create Course
+Clicking create course it will prompt the user to add a course by adding a title of the course, section that they're in, semester they're taking it (Fall, Spring, Summer), year they took itm and instructor of the course. Then clicking submit will add it to your courses list.
+
+![Add_Course](AP_AddCourses)
+
+#### Courses - List Courses
+The user could then use the "courses" dropdown again to find "list courses". In here will display all the courses that the user is enrolled in.
+
+![List_Courses](AP_ListCourses)
+
+### NavBar - Sessions
+Clicking the sessions dropdown the user has the option to either create a study session or list study sessions that they have.
+
+![NavBar_Sessions](AP_SessionsButton)
+
+#### Sessions - Create Session
+Clicking create session it will prompt the user to add a study session by adding a date, course, location (ICSpace, Post 2nd Floor, Hamilton Library, Holmes Computer Lab), max party size, and description. Then clicking submit will add it to sessions list.
+
+![Create_Session](AP_CreateSession)
+
+#### Sessions - List Sessions
+The user could then use the "sessions" dropdown again to find "list sessions". In here will display all the sessions that would be available for users to join. For a user to be able to join they need to be enrolled in the course as well.
+
+### User Dropdown
+Clicking the user drop down, the user is able to either sign out or to change password.
+
+![User_Dropdown](AP_dropdown)
+
+#### Sign Out
+Clicking sign out will take you to the sign out page where the user can either sign out for sure or cancel.
+
+![User_SignOut](AP_SignOut)
+ 
+#### Change Password
+Clicking change password will take you to the change passwird page where the user can enter a new password and a section to confirm the new password.
+
 
 - User visits webpage inspired by GitHub's design and sees landing page
 displaying planned sessions and participants count.
