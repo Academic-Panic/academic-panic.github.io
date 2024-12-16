@@ -38,11 +38,11 @@ about courses that will be visible by all users.
 ### Landing Page
 This is our landing page where you can log in or sign up with the buttons indicated
 
-![Landing_Page](AP_Landing.png)
+![Landing_Page](AP_Landing2.png)
 
 ### Log In
 If you click the log in button it will prompt you to enter your email and password
-![LogIn_Page](AP_LogIn.png)
+![LogIn_Page](AP_LogIn2.png)
 
 ### Sign Up
 If you click the sign up button it will prompt you to enter username, email, password, and confirm password. User can then use the register button to sign up or reset to clear the sections. Also has the option to have the user sign in if they already has an account
