@@ -46,6 +46,7 @@ If you click the log in button it will prompt you to enter your email and passwo
 
 ### Sign Up
 If you click the sign up button it will prompt you to enter username, email, password, and confirm password. User can then use the register button to sign up or reset to clear the sections. Also has the option to have the user sign in if they already has an account
+![User_App](AP_UserApp.png)
 
 ### Panic Board
 Once logged in, the home page or panic board, has "Traum in Progress" that will have the courses currently taking, "Trauma Sessions" which will show all of the study sessions they have, and "Repressed memories" with previous classes. This page can also be found by clicking "Academic Panic" in the navbar.
