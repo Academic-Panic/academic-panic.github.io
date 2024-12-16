@@ -35,6 +35,25 @@ The goals of the project are as follows:
 about courses that will be visible by all users.
 
 ## User Guide
+### Landing Page
+This is our landing page where you can log in or sign up with the buttons indicated
+
+![Landing](AP_Landing.png)
+
+### Log In
+If you click the log in button it will prompt you to enter your email and password
+![LogIn](AP_LogIn.png)
+
+### Sign Up
+If you click the sign up button it will prompt you to enter username, email, password, and confirm password. User can then use the register button to sign up or reset to clear the sections. Also has the option to have the user sign in if they already has an account
+
+### Panic Board
+Once logged in, the home page or panic board, has "Traum in Progress" that will have the courses currently taking, "Trauma Sessions" which will show all of the study sessions they have, and "Repressed memories" with previous classes. This page can also be found by clicking "Academic Panic" in the navbar.
+
+![PanicBoard](AP_PanicBoard.png)
+
+### NavBar - Courses
+Clicking the courses dropdown you 
 
 - User visits webpage inspired by GitHub's design and sees landing page
 displaying planned sessions and participants count.
@@ -94,7 +113,7 @@ confirmation system).
 [M3 Project Page](https://github.com/orgs/Academic-Panic/projects/4) - Milestone 3 Issues
 
 ## Deployment
-Our application is deployed on vercel in the following link, [Academic Panic](https://academic-panic-application.vercel.app/)
+Our application is deployed on vercel in the following link, [Academic Panic](https://academic-panic-application-do4b81n2z-21chaanos-projects.vercel.app)
 
 ## Community Feedback
 
