@@ -113,7 +113,7 @@ confirmation system).
 [M3 Project Page](https://github.com/orgs/Academic-Panic/projects/4) - Milestone 3 Issues
 
 ## Deployment
-Our application is deployed on vercel in the following link, [Academic Panic](https://academic-panic-application-do4b81n2z-21chaanos-projects.vercel.app)
+Our application is deployed on vercel in the following link, [Academic Panic](https://academic-panic-application.vercel.app/)
 
 ## Community Feedback
 
