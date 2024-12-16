@@ -4,13 +4,14 @@
 
 - [Overview](#overview)
 - [Goals](#goals)
-- [User Flow](#user-flow)
+- [User Guide](#user-guide)
 - [Mockups](#mockups)
 - [Application Screenshots](#application-screenshots)
 - [Milestones](#milestones)
 - [Deployment](#deployment)
+- [Community Feedback](#community-feedback)
 - [Technologies Used](#technologies-used)
-- [Developers Guide](#developers-guide)
+- [Developer Guide](#developer-guide)
 <!-- - [Team](#team) -->
 - [Team Contract](#team-contract)
 - [Team Organization](#team-organization)
@@ -20,10 +21,10 @@
 
 Academic Panic is a web application for UH Manoa students to connect with their
 peers to engage in more effective and collaborative learning with
-- a study session planning system that can notify other students of,
-- a course review and rating system, and
+- a study session planning system that can notify other students of
+- a course review and rating system
 - a "friends" system to connect students without disclosing sensitive
-information,
+information
 
 ## Goals
 
@@ -33,7 +34,7 @@ The goals of the project are as follows:
 - provide a platform for students to share honest (yet respectful) opinions
 about courses that will be visible by all users.
 
-## User Flow
+## User Guide
 
 - User visits webpage inspired by GitHub's design and sees landing page
 displaying planned sessions and participants count.
@@ -95,6 +96,8 @@ confirmation system).
 ## Deployment
 Our application is deployed on vercel in the following link, [Academic Panic](https://academic-panic-application.vercel.app/)
 
+## Community Feedback
+
 ## Technologies Used
 
 Academic Panic is built upon the
@@ -122,7 +125,7 @@ platform.
 [![ci-academic-panic-application](https://github.com/Academic-Panic/academic-panic-application/actions/workflows/ci.yml/badge.svg)](https://github.com/Academic-Panic/academic-panic-application/actions/workflows/ci.yml)
 
 
-## Developers Guide
+## Developer Guide
 
 ## 1. Project Overview
 
