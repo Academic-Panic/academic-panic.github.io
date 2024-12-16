@@ -262,22 +262,22 @@ This web application is intended for college students in STEM at the University 
 These graphs represent the dependencies in our database.
 
 ### Schema Prisma
-![Dependency Graph](./public/schemaPrisma.svg)
+![Dependency Graph](schemaPrisma.png)
 
 ### Application
-![Dependency Graph](./public/srcApp.svg)
+![Dependency Graph](srcApp.png)
 
 ### Components
-![Dependency Graph](./public/srcComponents.svg)
+![Dependency Graph](srcComponents.png)
 
 ### Utilities
-![Dependency Graph](./public/srcLib.svg)
+![Dependency Graph](srcLib.png)
 
 ### API
-![Dependency Graph](./public/srcAppApi.svg)
+![Dependency Graph](srcAppApi.svg)
 
 ### Application Layout
-![Dependency Graph](./public/srcAppLayout.svg)
+![Dependency Graph](srcAppLayout.png)
 
 ---
 <br><br>
