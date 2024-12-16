@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128pt" height="175pt" viewBox="0.00 0.00 128.00 174.80">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 170.8)">
+<title>graphname</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-170.8 124,-170.8 124,4 -4,4"/>
+<g id="clust2" class="cluster">
+<title>cluster_1</title>
+<polygon fill="none" stroke="black" points="8,-8 8,-158.8 112,-158.8 112,-8 8,-8"/>
+<text text-anchor="middle" x="60" y="-142.2" font-family="Times,serif" font-size="14.00">app</text>
+</g>
+<!-- app/layout.tsx -->
+<g id="node1" class="node">
+<title>app/layout.tsx</title>
+<polygon fill="orange" stroke="black" points="24.58,-89.5 24.58,-125.5 95.42,-125.5 95.42,-89.5 24.58,-89.5"/>
+<text text-anchor="middle" x="60" y="-103.3" font-family="Times,serif" font-size="14.00">layout.tsx</text>
+</g>
+<!-- app/providers.tsx -->
+<g id="node2" class="node">
+<title>app/providers.tsx</title>
+<polygon fill="none" stroke="black" points="15.64,-16.5 15.64,-52.5 104.36,-52.5 104.36,-16.5 15.64,-16.5"/>
+<text text-anchor="middle" x="60" y="-30.3" font-family="Times,serif" font-size="14.00">providers.tsx</text>
+</g>
+<!-- app/layout.tsx&#45;&gt;app/providers.tsx -->
+<g id="edge1" class="edge">
+<title>app/layout.tsx-&gt;app/providers.tsx</title>
+<path fill="none" stroke="orange" d="M60,-89.31C60,-81.73 60,-72.6 60,-64.04"/>
+<polygon fill="orange" stroke="orange" points="63.5,-64.04 60,-54.04 56.5,-64.04 63.5,-64.04"/>
+</g>
+</g>
+</svg>

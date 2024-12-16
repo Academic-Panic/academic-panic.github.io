@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="202pt" height="188pt" viewBox="0.00 0.00 202.00 187.60">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 183.6)">
+<title>graphname</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-183.6 198,-183.6 198,4 -4,4"/>
+<g id="clust2" class="cluster">
+<title>cluster_1</title>
+<polygon fill="none" stroke="black" points="8,-8 8,-85.8 186,-85.8 186,-8 8,-8"/>
+<text text-anchor="middle" x="97" y="-69.2" font-family="Times,serif" font-size="14.00">config</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_2</title>
+<polygon fill="none" stroke="black" points="62,-93.8 62,-171.6 132,-171.6 132,-93.8 62,-93.8"/>
+<text text-anchor="middle" x="97" y="-155" font-family="Times,serif" font-size="14.00">prisma</text>
+</g>
+<!-- prisma/seed.ts -->
+<g id="node1" class="node">
+<title>prisma/seed.ts</title>
+<polygon fill="none" stroke="black" points="70,-102.3 70,-138.3 124,-138.3 124,-102.3 70,-102.3"/>
+<text text-anchor="middle" x="96.86" y="-116.1" font-family="Times,serif" font-size="14.00">seed.ts</text>
+</g>
+<!-- config/settings.development.json -->
+<g id="node2" class="node">
+<title>config/settings.development.json</title>
+<polygon fill="none" stroke="black" points="16.29,-16.5 16.29,-52.5 177.71,-52.5 177.71,-16.5 16.29,-16.5"/>
+<text text-anchor="middle" x="97" y="-30.3" font-family="Times,serif" font-size="14.00">settings.development.json</text>
+</g>
+<!-- prisma/seed.ts&#45;&gt;config/settings.development.json -->
+<g id="edge1" class="edge">
+<title>prisma/seed.ts-&gt;config/settings.development.json</title>
+<path fill="none" stroke="#a1f9fe" d="M97,-101.94C97,-91.04 97,-76.72 97,-64.17"/>
+<polygon fill="#a1f9fe" stroke="#a1f9fe" points="100.5,-64.35 97,-54.35 93.5,-64.35 100.5,-64.35"/>
+</g>
+</g>
+</svg>

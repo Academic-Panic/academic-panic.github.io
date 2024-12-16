@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="724pt" height="293pt" viewBox="0.00 0.00 724.00 293.40">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 289.4)">
+<title>graphname</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-289.4 720,-289.4 720,4 -4,4"/>
+<g id="clust2" class="cluster">
+<title>cluster_1</title>
+<polygon fill="none" stroke="black" points="8,-8 8,-277.4 708,-277.4 708,-8 8,-8"/>
+<text text-anchor="middle" x="358" y="-260.8" font-family="Times,serif" font-size="14.00">src</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_2</title>
+<polygon fill="none" stroke="black" points="16,-89 16,-244.6 438,-244.6 438,-89 16,-89"/>
+<text text-anchor="middle" x="227" y="-228" font-family="Times,serif" font-size="14.00">components</text>
+</g>
+<g id="clust4" class="cluster">
+<title>cluster_3</title>
+<polygon fill="none" stroke="black" points="446,-16 446,-166.8 700,-166.8 700,-16 446,-16"/>
+<text text-anchor="middle" x="573" y="-150.2" font-family="Times,serif" font-size="14.00">lib</text>
+</g>
+<!-- src/components/AddSessionForm.tsx -->
+<g id="node1" class="node">
+<title>src/components/AddSessionForm.tsx</title>
+<polygon fill="none" stroke="black" points="24.46,-175.3 24.46,-211.3 157.54,-211.3 157.54,-175.3 24.46,-175.3"/>
+<text text-anchor="middle" x="91" y="-189.1" font-family="Times,serif" font-size="14.00">AddSessionForm.tsx</text>
+</g>
+<!-- src/lib/dbActions.ts -->
+<g id="node2" class="node">
+<title>src/lib/dbActions.ts</title>
+<polygon fill="none" stroke="black" points="453.81,-97.5 453.81,-133.5 540.19,-133.5 540.19,-97.5 453.81,-97.5"/>
+<text text-anchor="middle" x="497" y="-111.3" font-family="Times,serif" font-size="14.00">dbActions.ts</text>
+</g>
+<!-- src/components/AddSessionForm.tsx&#45;&gt;src/lib/dbActions.ts -->
+<g id="edge1" class="edge">
+<title>src/components/AddSessionForm.tsx-&gt;src/lib/dbActions.ts</title>
+<path fill="none" stroke="#c5ceab" d="M158.01,-176.12C161.04,-175.62 164.05,-175.18 167,-174.8 197.32,-170.91 413.67,-178.28 442,-166.8 454.99,-161.54 466.83,-151.73 476.17,-142.16"/>
+<polygon fill="#c5ceab" stroke="#c5ceab" points="478.51,-144.79 482.68,-135.05 473.34,-140.06 478.51,-144.79"/>
+</g>
+<!-- src/components/LoadingSpinner.tsx -->
+<g id="node3" class="node">
+<title>src/components/LoadingSpinner.tsx</title>
+<polygon fill="none" stroke="black" points="99.98,-97.5 99.98,-133.5 226.02,-133.5 226.02,-97.5 99.98,-97.5"/>
+<text text-anchor="middle" x="163" y="-111.3" font-family="Times,serif" font-size="14.00">LoadingSpinner.tsx</text>
+</g>
+<!-- src/components/AddSessionForm.tsx&#45;&gt;src/components/LoadingSpinner.tsx -->
+<g id="edge2" class="edge">
+<title>src/components/AddSessionForm.tsx-&gt;src/components/LoadingSpinner.tsx</title>
+<path fill="none" stroke="#c5ceab" d="M107.34,-175.1C116.57,-165.38 128.29,-153.04 138.59,-142.19"/>
+<polygon fill="#c5ceab" stroke="#c5ceab" points="141.09,-144.65 145.44,-134.99 136.01,-139.83 141.09,-144.65"/>
+</g>
+<!-- src/lib/validationSchemas.ts -->
+<g id="node4" class="node">
+<title>src/lib/validationSchemas.ts</title>
+<polygon fill="none" stroke="black" points="557.71,-97.5 557.71,-133.5 692.29,-133.5 692.29,-97.5 557.71,-97.5"/>
+<text text-anchor="middle" x="625" y="-111.3" font-family="Times,serif" font-size="14.00">validationSchemas.ts</text>
+</g>
+<!-- src/components/AddSessionForm.tsx&#45;&gt;src/lib/validationSchemas.ts -->
+<g id="edge3" class="edge">
+<title>src/components/AddSessionForm.tsx-&gt;src/lib/validationSchemas.ts</title>
+<path fill="none" stroke="#c5ceab" d="M158,-176.09C161.03,-175.6 164.04,-175.17 167,-174.8 209.13,-169.56 508.48,-179.46 549,-166.8 566.3,-161.39 583.34,-150.75 596.88,-140.65"/>
+<polygon fill="#c5ceab" stroke="#c5ceab" points="598.73,-143.64 604.47,-134.73 594.43,-138.12 598.73,-143.64"/>
+</g>
+<!-- src/lib/prisma.ts -->
+<g id="node5" class="node">
+<title>src/lib/prisma.ts</title>
+<polygon fill="none" stroke="black" points="463.53,-24.5 463.53,-60.5 530.47,-60.5 530.47,-24.5 463.53,-24.5"/>
+<text text-anchor="middle" x="497" y="-38.3" font-family="Times,serif" font-size="14.00">prisma.ts</text>
+</g>
+<!-- src/lib/dbActions.ts&#45;&gt;src/lib/prisma.ts -->
+<g id="edge4" class="edge">
+<title>src/lib/dbActions.ts-&gt;src/lib/prisma.ts</title>
+<path fill="none" stroke="#d4693b" d="M497,-97.31C497,-89.73 497,-80.6 497,-72.04"/>
+<polygon fill="#d4693b" stroke="#d4693b" points="500.5,-72.04 497,-62.04 493.5,-72.04 500.5,-72.04"/>
+</g>
+<!-- src/components/AddStuffForm.tsx -->
+<g id="node6" class="node">
+<title>src/components/AddStuffForm.tsx</title>
+<polygon fill="none" stroke="black" points="175.86,-175.3 175.86,-211.3 294.14,-211.3 294.14,-175.3 175.86,-175.3"/>
+<text text-anchor="middle" x="235" y="-189.1" font-family="Times,serif" font-size="14.00">AddStuffForm.tsx</text>
+</g>
+<!-- src/components/AddStuffForm.tsx&#45;&gt;src/lib/dbActions.ts -->
+<g id="edge5" class="edge">
+<title>src/components/AddStuffForm.tsx-&gt;src/lib/dbActions.ts</title>
+<path fill="none" stroke="#471a54" d="M294.57,-176.27C297.41,-175.73 300.23,-175.23 303,-174.8 333.57,-170.03 413.49,-178.82 442,-166.8 454.91,-161.35 466.74,-151.52 476.09,-141.98"/>
+<polygon fill="#471a54" stroke="#471a54" points="478.41,-144.63 482.61,-134.9 473.26,-139.88 478.41,-144.63"/>
+</g>
+<!-- src/components/AddStuffForm.tsx&#45;&gt;src/components/LoadingSpinner.tsx -->
+<g id="edge6" class="edge">
+<title>src/components/AddStuffForm.tsx-&gt;src/components/LoadingSpinner.tsx</title>
+<path fill="none" stroke="#471a54" d="M218.66,-175.1C209.43,-165.38 197.71,-153.04 187.41,-142.19"/>
+<polygon fill="#471a54" stroke="#471a54" points="189.99,-139.83 180.56,-134.99 184.91,-144.65 189.99,-139.83"/>
+</g>
+<!-- src/components/AddStuffForm.tsx&#45;&gt;src/lib/validationSchemas.ts -->
+<g id="edge7" class="edge">
+<title>src/components/AddStuffForm.tsx-&gt;src/lib/validationSchemas.ts</title>
+<path fill="none" stroke="#471a54" d="M294.55,-176.19C297.4,-175.66 300.22,-175.2 303,-174.8 357.14,-167.05 496.89,-183.41 549,-166.8 566.15,-161.33 583.06,-150.79 596.56,-140.77"/>
+<polygon fill="#471a54" stroke="#471a54" points="598.37,-143.8 604.13,-134.91 594.08,-138.26 598.37,-143.8"/>
+</g>
+<!-- src/components/EditStuffForm.tsx -->
+<g id="node7" class="node">
+<title>src/components/EditStuffForm.tsx</title>
+<polygon fill="none" stroke="black" points="312.25,-175.3 312.25,-211.3 429.75,-211.3 429.75,-175.3 312.25,-175.3"/>
+<text text-anchor="middle" x="371" y="-189.1" font-family="Times,serif" font-size="14.00">EditStuffForm.tsx</text>
+</g>
+<!-- src/components/EditStuffForm.tsx&#45;&gt;src/lib/dbActions.ts -->
+<g id="edge9" class="edge">
+<title>src/components/EditStuffForm.tsx-&gt;src/lib/dbActions.ts</title>
+<path fill="none" stroke="#46cc08" d="M426.28,-174.93C431.73,-172.48 437.07,-169.78 442,-166.8 453.37,-159.94 464.46,-150.5 473.67,-141.65"/>
+<polygon fill="#46cc08" stroke="#46cc08" points="475.87,-144.39 480.48,-134.85 470.93,-139.44 475.87,-144.39"/>
+</g>
+<!-- src/components/EditStuffForm.tsx&#45;&gt;src/lib/validationSchemas.ts -->
+<g id="edge8" class="edge">
+<title>src/components/EditStuffForm.tsx-&gt;src/lib/validationSchemas.ts</title>
+<path fill="none" stroke="#46cc08" d="M429.94,-190.37C465.41,-187.63 510.92,-181.28 549,-166.8 565.42,-160.55 581.9,-150.26 595.29,-140.61"/>
+<polygon fill="#46cc08" stroke="#46cc08" points="597.33,-143.46 603.24,-134.67 593.13,-137.85 597.33,-143.46"/>
+</g>
+</g>
+</svg>
