@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="258pt" height="216pt" viewBox="0.00 0.00 258.00 215.60">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 211.6)">
+<title>graphname</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-211.6 254,-211.6 254,4 -4,4"/>
+<g id="clust2" class="cluster">
+<title>cluster_1</title>
+<polygon fill="none" stroke="black" points="8,-8 8,-199.6 242,-199.6 242,-8 8,-8"/>
+<text text-anchor="middle" x="125" y="-183" font-family="Times,serif" font-size="14.00">src</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_2</title>
+<polygon fill="none" stroke="black" points="16,-16 16,-166.8 234,-166.8 234,-16 16,-16"/>
+<text text-anchor="middle" x="125" y="-150.2" font-family="Times,serif" font-size="14.00">lib</text>
+</g>
+<!-- src/lib/authOptions.ts -->
+<g id="node1" class="node">
+<title>src/lib/authOptions.ts</title>
+<polygon fill="none" stroke="black" points="24.36,-97.5 24.36,-133.5 121.64,-133.5 121.64,-97.5 24.36,-97.5"/>
+<text text-anchor="middle" x="73" y="-111.3" font-family="Times,serif" font-size="14.00">authOptions.ts</text>
+</g>
+<!-- src/lib/prisma.ts -->
+<g id="node2" class="node">
+<title>src/lib/prisma.ts</title>
+<polygon fill="none" stroke="black" points="94.53,-24.5 94.53,-60.5 161.47,-60.5 161.47,-24.5 94.53,-24.5"/>
+<text text-anchor="middle" x="128" y="-38.3" font-family="Times,serif" font-size="14.00">prisma.ts</text>
+</g>
+<!-- src/lib/authOptions.ts&#45;&gt;src/lib/prisma.ts -->
+<g id="edge1" class="edge">
+<title>src/lib/authOptions.ts-&gt;src/lib/prisma.ts</title>
+<path fill="none" stroke="#8059a2" d="M86.31,-97.31C92.8,-88.94 100.73,-78.7 107.93,-69.4"/>
+<polygon fill="#8059a2" stroke="#8059a2" points="110.52,-71.77 113.88,-61.73 104.99,-67.49 110.52,-71.77"/>
+</g>
+<!-- src/lib/dbActions.ts -->
+<g id="node3" class="node">
+<title>src/lib/dbActions.ts</title>
+<polygon fill="none" stroke="black" points="139.81,-97.5 139.81,-133.5 226.19,-133.5 226.19,-97.5 139.81,-97.5"/>
+<text text-anchor="middle" x="183" y="-111.3" font-family="Times,serif" font-size="14.00">dbActions.ts</text>
+</g>
+<!-- src/lib/dbActions.ts&#45;&gt;src/lib/prisma.ts -->
+<g id="edge2" class="edge">
+<title>src/lib/dbActions.ts-&gt;src/lib/prisma.ts</title>
+<path fill="none" stroke="#a884f9" d="M169.69,-97.31C163.2,-88.94 155.27,-78.7 148.07,-69.4"/>
+<polygon fill="#a884f9" stroke="#a884f9" points="151.01,-67.49 142.12,-61.73 145.48,-71.77 151.01,-67.49"/>
+</g>
+</g>
+</svg>
