@@ -156,6 +156,7 @@ confirmation system).
 Our application is deployed on vercel in the following link, [Academic Panic](https://academic-panic-application.vercel.app/)
 
 ## Community Feedback
+To see how others view our application, we had other people try it and give us their thouhgts. Overall the feedback was pretty positive. Most people who responded really liked the concept of what this application was doing and wishes they had something like this when they were in their earlier years in college. A lot of them believing that this application has a lot fo promise to build upon and has potential to make a lasting impact on the student body academically and socially. However, we were also given good feedback as to how to make the application even better. Some gave suggestions that were given to us was to add a google calendar system, a google meets feature for online study sessions, touch up the pages to look more like the mock up, adding a notification system, etc. Overall, they felt that this app has  lots of potential and really supports the initative behind it.
 
 ## Technologies Used
 
